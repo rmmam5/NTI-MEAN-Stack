@@ -4,8 +4,8 @@ My daily tasks and projects during NTI MEAN Stack training.
 
 ## Daily Tasks
 
-- Day 01
-- Day 02
+- Day 01 — JavaScript Reacp
+- Day 02 — JavaScript DOM, Events & Fetch API
 - Day 03
 - Day 04
 - Day 05

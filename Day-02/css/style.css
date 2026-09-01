@@ -1,0 +1,70 @@
+button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #2264c7;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+
+
+#productsContainer {
+    width: 90%;
+    margin: 40px auto;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.card {
+    padding: 20px;
+
+    background: rgba(23, 108, 161, 0.1);
+    border: 1px solid rgba(14, 36, 203, 0.2);
+
+    border-radius: 15px;
+
+    backdrop-filter: blur(15px);
+
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+
+    border-radius: 10px;
+}
+
+.card h3 {
+    margin: 15px 0 10px;
+    font-size: 20px;
+}
+
+.card p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.card span {
+    display: block;
+    margin-top: 15px;
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
