@@ -1,5 +1,5 @@
-```markdown
-# Day 02 - JavaScript
+
+# Day 02 - JavaScript DOM, Events & Fetch API
 
 ## Topics Covered
 
@@ -83,4 +83,3 @@ https://dummyjson.com/products
 ## Technologies & Concepts Practiced
 
 JavaScript • DOM • Events • Fetch API • Promises • JSON • API • Dynamic Elements
-```
