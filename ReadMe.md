@@ -43,6 +43,3 @@ Welcome to the **MEAN Stack Tasks** repository! This repository contains practic
 - **GitHub**: [@rmmam5](https://github.com/rmmam5)
 - **Repository**: [NTI-MEAN Stack](https://github.com/rmmam5/NTI-MEAN-Stack)
 
----
-
-⭐ *Feel free to explore the code and follow along with the track progress!*
