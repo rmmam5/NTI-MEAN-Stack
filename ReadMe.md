@@ -18,7 +18,7 @@ Welcome to the **MEAN Stack Tasks** repository! This repository contains practic
 
 ## 📝 Track & Tasks Overview
 
-### 🟡 1. JavaScript Fundamentals (`/JAVASCRIPT`)
+### 🟡 1. JavaScript Fundamentals (`/JavaScript`)
 - **Day 1**:
   - JavaScript Recap
 - **Day 2**:
