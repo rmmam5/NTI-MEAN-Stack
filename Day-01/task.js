@@ -1,9 +1,9 @@
-(function() {
-    alert("Welcome to my site")
-})();
+// (function() {
+//     alert("Welcome to my site")
+// })();
 
-let name = prompt("What is your name?");
-alert("Welcome " + name + "!");
+// let name = prompt("What is your name?");
+// alert("Welcome " + name + "!");
 
 let marks = [
     [1, [100, 90, 95 ]],
