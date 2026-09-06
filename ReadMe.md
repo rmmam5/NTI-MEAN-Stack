@@ -20,15 +20,9 @@ Welcome to the **MEAN Stack Tasks** repository! This repository contains practic
 
 ### 🟡 1. JavaScript Fundamentals (`/JAVASCRIPT`)
 - **Day 1**:
-  - Immediately Invoked Function Expression (IIFE) welcome alert.
-  - Interactive user prompt input & greeting system.
-  - Multi-dimensional array processing & student grading system (`switch`).
+  - JavaScript Recap
 - **Day 2**:
-  - Dynamic Product Listing Webpage using FakeStore API (`https://fakestoreapi.com/products`).
-  - Asynchronous HTTP requests using `fetch()` and Promise `.then()` / `.catch()` chaining.
-  - Dynamic DOM creation & manipulation (`document.createElement()`, `appendChild()`, template strings).
-  - Responsive CSS Grid card layout, image aspect fitting, loading spinner, and retry error handling.
-
+  - JavaScript DOM, Events & Fetch API
 
 ### 🍃 2. MongoDB (`/MongoDB`)
 - CRUD operations, indexing, aggregation pipelines, and Mongoose ODM integration.
