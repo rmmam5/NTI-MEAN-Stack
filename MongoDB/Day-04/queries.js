@@ -121,7 +121,7 @@ db.students.drop()
 db2 = db.getSiblingDB("FacultySystemV2"); // use FacultySystemV2 in mongo shell
 
 //11.2
-db.createCollection("Students")
+db2.createCollection("Students")
 
 //11.3
 db2.Students.insertOne({
