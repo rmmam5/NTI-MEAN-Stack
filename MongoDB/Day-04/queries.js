@@ -142,7 +142,7 @@ db2.Students.insertOne({
 })
 
 db2.Students.insertOne({
-    FirstName: "Ahmed",
+    FirstName: "Mostafa",
     LastName: "Ali",
     IsFired: false,
     FacultyID: 101,
